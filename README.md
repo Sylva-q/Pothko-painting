@@ -11,10 +11,14 @@ Key Concepts Learned:
 ✅ Use of display: block elements and stacking them vertically.
 
 *New knowlege* 
-  filter: blur(2px);
-  box-shadow: 0 0 5px 5px #b20403;
-  border-radius: 30px 25px 60px 12px;
-  transform: rotate(-0.2deg);
+
+  :fire:filter: blur(2px)
+  
+  :fire:box-shadow: 0 0 5px 5px #b20403
+  
+  :fire:border-radius: 30px 25px 60px 12px
+  
+  :fire:transform: rotate(-0.2deg)
 
 Takeaways:
 Understanding the CSS box model is crucial for controlling layout and spacing in web design. This hands-on project visualized those abstract concepts by turning them into colorful, layered rectangles—just like Rothko's paintings.
